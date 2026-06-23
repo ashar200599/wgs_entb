@@ -1,0 +1,5 @@
+Sample	Unique Reads	Duplicate Reads
+SRR29468201_1	835575.0	220983.0
+SRR29468201_2	857768.0	198790.0
+sample_clean_1	803181.0	204740.0
+sample_clean_2	812279.0	195642.0
