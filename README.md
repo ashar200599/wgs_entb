@@ -42,6 +42,7 @@ WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annota
 |Convert SAM to BAM | samtools | convert .sam output into .bam format
 |Variant Calling | freebayes | check variants
 |Variant Annotation | snpEff | annotate variant using snpEff custom database
+|VCF Plot | ggplot | Barplot, Manhattan plot, Pie chart
 
 ## 📈 Key Results
 
