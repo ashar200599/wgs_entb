@@ -1,4 +1,4 @@
-# wgs_entb
+# WHOLE GENOME SEQUENCING (WGS) of _Enterobacter cloacae_
 WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annotation) of _Enterobacter cloacae_
 
 ## Results
