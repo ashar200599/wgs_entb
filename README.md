@@ -44,16 +44,19 @@ WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annota
 |Variant Annotation | snpEff | annotate variant using snpEff custom database
 |VCF Plot | ggplot | Barplot, Manhattan plot, Pie chart
 
+
+---
+
 ## 📈 Key Results
 
 | Findings | Details | Biological Meaning |
 |---|---|---|
-| Downstream & Upstream gene regions| ~200,000 and ~175,000 | Most genetic variation in this E. cloacae strain is in regulatory/flanking regions, which could affect gene expression rather than protein structure. |
+| Downstream & Upstream gene regions| ~200,000 and ~175,000 genes | Most genetic variation in this E. cloacae strain is in regulatory/flanking regions, which could affect gene expression rather than protein structure|
 | Variant Quality | relatively uniform across the ~5 Mb chromosome |  indicating even sequencing coverage|
 | Silent/Synonymous variants| 84.72% |  these mutations don't change amino acid sequence, suggesting strong purifying selection maintaining protein function|
 | Missense variants | 15.22% | these alter amino acid identity and are candidates for functional impact
 | Modifier impact | 91.16% | variants in non-coding or regulatory regions with indirect/unknown effects
-| Variant rate | 	1 variant every 120 bases | relatively high genetic divergence from the reference strain
+| Variant rate | 	1 variant every 120 bases | Mtb sample is genetically close to the referenc
 
 **Conclusion:** The variant landscape is consistent with a clinically adapted or environmentally stable strain.
 
