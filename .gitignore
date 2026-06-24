@@ -1,0 +1,18 @@
+# Raw reads (too large)
+*.fastq
+*.fq
+*.sam
+
+# Uncompressed references
+*.fa
+*.fna
+*.fasta
+
+# Large BAM files (use LFS or external)
+*.bam
+*.bam.bai
+
+# Temp files
+*.tmp
+*.log
+__pycache__/
