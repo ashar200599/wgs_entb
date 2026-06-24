@@ -99,6 +99,7 @@ WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annota
 │   ├── data
 │   │   └── enterobacter_cloacae
 │   │       ├── genes.gff
+|   |       |── blaCMH_results.txt
 │   │       ├── sequence.NZ_OW968328.1.bin
 │   │       ├── sequences.fa
 │   │       └── snpEffectPredictor.bin
