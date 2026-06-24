@@ -121,7 +121,6 @@ WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annota
 │   │   ├── .RData
 │   │   ├── .RDataTmp
 │   │   ├── .Rhistory
-│   │   ├── pie_charts.png
 │   │   ├── script.md
 │   │   └── vcfR_plot.Rmd
 │   └── snpEff
