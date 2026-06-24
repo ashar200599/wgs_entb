@@ -1,3 +1,0 @@
-Module	Section	Sample Name	Source
-FastQC	all_sections	SRR29468201_1	/mnt/e/wgs_entb/wgs/results/fastqc/SRR29468201_1_fastqc.zip
-FastQC	all_sections	SRR29468201_2	/mnt/e/wgs_entb/wgs/results/fastqc/SRR29468201_2_fastqc.zip
