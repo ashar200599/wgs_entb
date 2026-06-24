@@ -397,3 +397,69 @@ sed -i 's/\.itervalues()/.values()/g; s/\.iteritems()/.items()/g; s/\.iterkeys()
 ```
 
 =
+
+# Chapter 9.Check blaCMH gene hit
+
+```bash
+grep "blaCMH" variants_annotated.vcf
+
+# With header lines included
+grep -E "^#|blaCMH" variants_annotated.vcf
+
+# Save output
+grep "blaCMH" variants_annotated.vcf > blaCMH_results.txt
+
+# Count how many hits
+grep -c "blaCMH" variants_annotated.vcf
+```
+
+# Chapter 10. Zip and Upload File
+
+## A. Github (for small file)
+
+**1. Zip big files**
+
+```bash
+find . -type f -size +100M \
+    \( -name "*.vcf" -o -name "*.bam" -o -name "*.sam" \
+    -o -name "*.fastq" -o -name "*.fq" -o -name "*.fna" \
+    -o -name "*.fa" -o -name "*.gff" -o -name "*.gtf" \) \
+    -exec gzip {} \;
+```
+
+**2. Upload in Github Repo**
+
+```bash
+git init
+git remote add origin https://github.com/ashar200599/wgs_entb.git
+cat > .gitignore << 'EOF'
+# Raw reads (too large)
+*.fastq
+*.fq
+*.sam
+
+# Uncompressed references
+*.fa
+*.fna
+*.fasta
+
+# Large BAM files (use LFS or external)
+*.bam
+*.bam.bai
+
+# Temp files
+*.tmp
+*.log
+__pycache__/
+EOF
+```
+
+```bash
+# Add safe files
+git add *.vcf.gz
+git add *.vcf.gz.tbi
+git add *.txt *.csv *.png
+git add *.py *.sh *.config *.md
+git add .gitignore
+git add .gitattributes
+```
