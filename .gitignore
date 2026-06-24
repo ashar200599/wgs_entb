@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raw reads (too large)
 *.fastq
 *.fq
@@ -16,3 +17,6 @@
 *.tmp
 *.log
 __pycache__/
+=======
+*.sra
+>>>>>>> a82be9c3e9ce7dd62c6bd725626ffe2799df0a08
