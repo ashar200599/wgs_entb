@@ -265,5 +265,7 @@ Hu J, Li J, Liu C, Zhang Y, Xie H, Li C, Shen H, Cao X. Molecular characteristic
 
 Sattar, F., Hu, X., Saxena, A., Mou, K., Shen, H., Ali, H., Ghauri, M. A., Sarwar, Y., Ali, A., & Li, G. (2024). Analyzing Antibiotic Resistance in Bacteria from Wastewater in    Pakistan Using Whole-Genome Sequencing. Antibiotics, 13(10), 937 (https://doi.org/10.3390/antibiotics13100937).
 
+## Dataset
+https://doi.org/10.5281/zenodo.20837135
 
 
