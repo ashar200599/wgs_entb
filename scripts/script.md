@@ -414,8 +414,9 @@ grep -c "blaCMH" variants_annotated.vcf
 ```
 
 # Chapter 10. Zip and Upload File
+## A. Zenodo (for large file)
 
-## A. Github (for small file)
+## B. Github (for small file)
 
 **1. Zip big files**
 
