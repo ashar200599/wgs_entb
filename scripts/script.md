@@ -415,6 +415,7 @@ grep -c "blaCMH" variants_annotated.vcf
 
 # Chapter 10. Zip and Upload File
 ## A. Zenodo (for large file)
+https://doi.org/10.5281/zenodo.20837135
 
 ## B. Github (for small file)
 
