@@ -19,7 +19,7 @@ WGS pipeline (Quality Check, Genome Mapping, Variant Calling, and Variant Annota
 ## Results
 
 ### SNP Effect by Region Barplot
-![Barplot](https://github.com/ashar200599/wgs_entb/blob/abc34dff6dd48c239ec640cb887e4fdba7d945db/wgs/plot/effect_regions.png)
+(https://github.com/ashar200599/wgs_entb/blob/abc34dff6dd48c239ec640cb887e4fdba7d945db/wgs/plot/effect_regions.png)
 
 ### SNP Effect by Type Barplot
 ![Barplot](https://github.com/ashar200599/wgs_entb/blob/abc34dff6dd48c239ec640cb887e4fdba7d945db/wgs/plot/effect_types.png)
