@@ -5,6 +5,13 @@
 ![Static Badge](https://img.shields.io/badge/Conda-FastQC-green)
 ![Static Badge](https://img.shields.io/badge/Conda-FastP-red)
 ![Static Badge](https://img.shields.io/badge/Conda-bwa-pink)
+![Static Badge](https://img.shields.io/badge/Conda-samtools-magenta)
+![Static Badge](https://img.shields.io/badge/Conda-freebayes-lime)
+![Static Badge](https://img.shields.io/badge/Conda-snpEff-silver)
+![Static Badge](https://img.shields.io/badge/R-ggplot-orange%3Flogo%3DR)
+
+
+
 
 
 
