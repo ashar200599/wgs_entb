@@ -1,14 +1,14 @@
 # WHOLE GENOME SEQUENCING (WGS) of _Enterobacter cloacae_
 
-![Static Badge](https://img.shields.io/badge/sample-SRR29468201-blue)
-![Static Badge](https://img.shields.io/badge/NCBI_Genome-GCF_905331265.2-yellow)
-![Static Badge](https://img.shields.io/badge/Conda-FastQC-green)
-![Static Badge](https://img.shields.io/badge/Conda-FastP-red)
-![Static Badge](https://img.shields.io/badge/Conda-bwa-pink)
-![Static Badge](https://img.shields.io/badge/Conda-samtools-magenta)
-![Static Badge](https://img.shields.io/badge/Conda-freebayes-lime)
-![Static Badge](https://img.shields.io/badge/Conda-snpEff-silver)
-![Static Badge](https://img.shields.io/badge/R-ggplot-orange%3Flogo%3DR)
+![srr](https://img.shields.io/badge/sample-SRR29468201-blue)
+![ncbi](https://img.shields.io/badge/NCBI_Genome-GCF_905331265.2-yellow)
+![fastqc](https://img.shields.io/badge/Conda-FastQC-green)
+![fastp](https://img.shields.io/badge/Conda-FastP-red)
+![bwa](https://img.shields.io/badge/Conda-bwa-pink)
+![samtools](https://img.shields.io/badge/Conda-samtools-magenta)
+![freebayes](https://img.shields.io/badge/Conda-freebayes-lime)
+![snpEff](https://img.shields.io/badge/Conda-snpEff-silver)
+![ggplot](https://img.shields.io/badge/R-ggplot-orange?logo=r)
 
 
 
