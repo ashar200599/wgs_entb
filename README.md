@@ -1,10 +1,10 @@
 # WHOLE GENOME SEQUENCING (WGS) of _Enterobacter cloacae_
 
 ![Static Badge](https://img.shields.io/badge/sample-SRR29468201-blue)
-![Static Badge](https://img.shields.io/badge/NCBI_Genome-GCF_905331265.2-blue)
-![Static Badge](https://img.shields.io/badge/Conda-FastQC-blue)
-![Static Badge](https://img.shields.io/badge/Conda-FastP-blue)
-![Static Badge](https://img.shields.io/badge/Conda-bwa-blue)
+![Static Badge](https://img.shields.io/badge/NCBI_Genome-GCF_905331265.2-yellow)
+![Static Badge](https://img.shields.io/badge/Conda-FastQC-green)
+![Static Badge](https://img.shields.io/badge/Conda-FastP-red)
+![Static Badge](https://img.shields.io/badge/Conda-bwa-pink)
 
 
 
